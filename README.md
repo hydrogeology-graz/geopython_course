@@ -8,9 +8,9 @@ Lectures: Johannes Haas, Raoul Collenteur.
 
 | Time/Lecturer | Topic | Content |
 | ---- | ----- | -------- |
-| Haas | Programming background | Why do programming, Interpreted vs compiled, Scripts and Jupyter notebooks, run from terminal / Ipython, print statements, hello world example, importing packages | 
-| Haas  | Programming Basics | importing packages, Variables, data types, basic operators, plotting, reading errors |
+| Haas | Programming basics | Jupyter Notebooks, Python code, importing packages, Variables, data types, working with text, plotting, reading errors  | 
+| Haas  | Math and arrays | Mathematical operators, 1D and 2D-Numpy arrays, Consolidate |
 | Collenteur | For-loops / If-else | How  to use for-loops to execute repetitive tasks.  |
 | Collenteur | Functions | How to define and use a function. global vs local variables, reading error messages from functions. Read_csv from pandas. |
-| Haas | Descriptive Statistics | Mean, standard deviation, correlation. Fit a linear function of the form Y=AX+B though some data.  Plot the data and the R-squared value. |
-| Collenteur | Numerical Calculations | Explicit euler of a water bucket? Exponential decay? Combine all skills from the previous lectures in one exercise. |
+| Haas | Data Analysis 1: Descriptive Statistics | Mean, standard deviation, correlation. Fit a linear function of the form Y=AX+B though some data.  Plot the data and the R-squared value. |
+| Collenteur | Data Analysis 2: regressions | ??? |
